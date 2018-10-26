@@ -1,0 +1,41 @@
+{
+  "Cards": [
+    {
+      "Id": 1,
+      "Name": "...And One For Me",
+      "CardType": "Spell",
+      "Rarity": "Uncommon",
+      "Color": "Blue",
+      "Text": "Choose a hero. Put a base copy of a random item equipped by that hero into your hand.",
+      "ManaCost": 4,
+      "Artist": "Randy Vargas",
+      "Lore": "",
+      "fileName": "and-one-for-me"
+    },
+    {
+      "Id": 2,
+      "Name": "Abaddon",
+      "CardType": "Hero",
+      "Rarity": "Uncommon",
+      "Color": "Green",
+      "Attack": 4,
+      "Armor": 0,
+      "Health": 9,
+      "Abilities": [
+        {
+          "Name": "Borrowed Time",
+          "Type": "Active",
+          "Text": "Fully heal Abaddon and give it Damage Immunity this round.",
+          "Cooldown": 2
+        }
+      ],
+      "Artist": "",
+      "Lore": "",
+      "RelatedIds": [
+        8
+      ],
+      "SignatureCard": 8,
+      "fileName": "abaddon"
+    }
+  ]
+}
