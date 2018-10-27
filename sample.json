@@ -4428,7 +4428,7 @@
       "Rarity": "Uncommon",
       "Color": "Green",
       "Text": "Give a unit \"Deal 2 piercing damage to this unit before the action phase\" until it dies.",
-      "ManaCost": 2,
+      "ManaCost": 3,
       "Artist": "Lars Grant-West",
       "Lore": "",
       "RelatedIds": [
