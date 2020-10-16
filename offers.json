@@ -1,130 +1,22 @@
 {
-  "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/28797/configuration/BAD3:Apog",
-  "choices": [
-    {
-      "choiceId": "NSP252W",
-      "label": "2.5L Auto 2WD N-SPORT",
-      "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/28797/configuration/BAD3:ApoA",
-      "selectedChoice": false,
-      "category": "version",
-      "versionStatus": "STANDARD",
-      "impact": {
-        "add": [],
-        "remove": []
-      },
-      "price": 43192,
-      "offer": {
-        "price": 30000,
-        "code": "NZE1HLEAF2EVHP12020-08-01"
-      }
-    },
-    {
-      "choiceId": "TL204W",
-      "label": "2.0D Auto 4WD TL",
-      "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/28797/configuration/BAD3:Aprg",
-      "selectedChoice": false,
-      "category": "version",
-      "versionStatus": "STANDARD",
-      "impact": {
-        "add": [],
-        "remove": []
-      },
-      "price": 0
-    },
-    {
-      "choiceId": "TS204W",
-      "label": "2.0D Auto 4WD TS",
-      "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/28797/configuration/BAD3:ApsA",
-      "selectedChoice": false,
-      "category": "version",
-      "versionStatus": "STANDARD",
-      "impact": {
-        "add": [],
-        "remove": []
-      },
-      "price": 0
-    },
-    {
-      "choiceId": "TI254W",
-      "label": "2.5L Auto 4WD Ti",
-      "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/28797/configuration/BAD3:AprA",
-      "selectedChoice": false,
-      "category": "version",
-      "versionStatus": "STANDARD",
-      "impact": {
-        "add": [],
-        "remove": []
-      },
-      "price": 49622,
-      "offer": {
-        "price": 20000,
-        "code": "NZE1HLEAF2EVHP12020-08-02"
-      }
-    },
-    {
-      "choiceId": "STL254W",
-      "label": "2.5L Auto 4WD ST-L",
-      "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/28797/configuration/BAD3:Apqg",
-      "selectedChoice": false,
-      "category": "version",
-      "versionStatus": "STANDARD",
-      "impact": {
-        "add": [],
-        "remove": []
-      },
-      "price": 43773
-    },
-    {
-      "choiceId": "STL252W",
-      "label": "2.5L Auto 2WD ST-L",
-      "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/28797/configuration/BAD3:ApqA",
-      "selectedChoice": false,
-      "category": "version",
-      "versionStatus": "STANDARD",
-      "impact": {
-        "add": [],
-        "remove": []
-      },
-      "price": 41549
-    },
-    {
-      "choiceId": "ST254W",
-      "label": "2.5L Auto 4WD ST",
-      "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/28797/configuration/BAD3:Appg",
-      "selectedChoice": false,
-      "category": "version",
-      "versionStatus": "STANDARD",
-      "impact": {
-        "add": [],
-        "remove": []
-      },
-      "price": 0
-    },
-    {
-      "choiceId": "ST252W",
-      "label": "2.5L Auto 2WD ST",
-      "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/28797/configuration/BAD3:AppA",
-      "selectedChoice": false,
-      "category": "version",
-      "versionStatus": "STANDARD",
-      "impact": {
-        "add": [],
-        "remove": []
-      },
-      "price": 0
-    },
-    {
-      "choiceId": "ST202W",
-      "label": "2.0L Man 2WD ST",
-      "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/28797/configuration/BAD3:Apog",
-      "selectedChoice": true,
-      "category": "version",
-      "versionStatus": "STANDARD",
-      "impact": {
-        "add": [],
-        "remove": []
-      },
-      "price": 0
-    }
-  ]
+    "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/LEAFZE1A/configuration/BADy:AfY123123123",
+    "choices": [
+        {
+            "choiceId": "CON1",
+            "label": "Battery 40kWh AT 2WD LEAF",
+            "configurationURI": "https://digitaslbi-nonprod-stream24-uat.apigee.net/v2/models/LEAFZE1A/configuration/BADy:AfY",
+            "selectedChoice": true,
+            "category": "version",
+            "versionStatus": "STANDARD",
+            "impact": {
+                "add": [],
+                "remove": []
+            },
+            "price": 53190,
+            "offer": {
+                "price": 53190,
+                "code": "NZE1HLEAF2EVHP12020-08-01"
+            }
+        }
+    ]
 }
